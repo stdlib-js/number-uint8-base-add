@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`6803252`](https://github.com/stdlib-js/stdlib/commit/68032524e51f5f6b82e06e13253836ec5a539c40) - **build:** add package meta data _(by Athan Reines)_
 -   [`b299663`](https://github.com/stdlib-js/stdlib/commit/b299663090e95dc9c1ea27c35da67ede34c0b3a2) - **chore:** add notes _(by Athan Reines)_
 -   [`348cca4`](https://github.com/stdlib-js/stdlib/commit/348cca418f8031d4a5d456b015fa39dfbd084972) - **docs:** add notes _(by Athan Reines)_
 -   [`e21f523`](https://github.com/stdlib-js/stdlib/commit/e21f5234efd9048dbd9a8de6ecf6f72a33d758d2) - **docs:** fix return value _(by Athan Reines)_
